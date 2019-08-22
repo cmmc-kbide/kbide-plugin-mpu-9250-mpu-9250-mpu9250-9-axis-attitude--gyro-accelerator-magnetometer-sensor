@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-mpu-9250-mpu-9250-mpu9250-9-axis-attitude--gyro-accelerator-magnetometer-sensor",
+  "title": "mpu-9250-mpu-9250-mpu9250-9-axis-attitude--gyro-accelerator-magnetometer-sensor",
+  "keywords": "mpu-9250-mpu-9250-mpu9250-9-axis-attitude--gyro-accelerator-magnetometer-sensor, esp32, esp8266, arduino",
+  "description": "mpu-9250-mpu-9250-mpu9250-9-axis-attitude--gyro-accelerator-magnetometer-sensor plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-mpu-9250-mpu-9250-mpu9250-9-axis-attitude--gyro-accelerator-magnetometer-sensor/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-mpu-9250-mpu-9250-mpu9250-9-axis-attitude--gyro-accelerator-magnetometer-sensor/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
